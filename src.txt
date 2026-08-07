@@ -1,0 +1,9 @@
+package org.example;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello Java!");
+        System.out.println("Đặng Phúc Đình");
+        System.out.println("MSV: 2031110");
+    }
+}
